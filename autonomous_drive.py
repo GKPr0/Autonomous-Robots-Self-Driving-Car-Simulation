@@ -9,7 +9,7 @@ from PIL import Image
 import cv2
 
 
-model_name = 'Models/model_2.h5'
+model_name = 'Models/model_3.h5'
 speed_limit = 10 #MPH
 
 sio = socketio.Server()
